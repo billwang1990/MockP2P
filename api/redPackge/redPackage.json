@@ -1,0 +1,31 @@
+[
+    {
+        "request": {
+            "uri": "/xyyh/getApiRedForInvest"
+        },
+        "response": {
+            "json": {
+                  "resultStatus": 0,
+                  "msg": "获取成功",
+                  "id": null,
+                  "tradeSerial": null,
+                  "applySequence": null,
+                  "optional": null,
+                  "total": 2,
+                  "rows": [
+                    {
+                      "redName": "测试红包一号",
+                      "redId": "21345675432",
+                      "endTime": "2017-01-22"
+                    },
+                    {
+                      "redName": "测试红包二号",
+                      "redId":"qdsd123",
+                      "endTime": "2016-01-22"
+                    }
+                  ],
+                  "footer": null
+            }
+        }
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+       "file_root":"api/fuckH5",
+       "include": "linksData.json"
+    },
+
+    {
+       "file_root":"api/redPackge",
+       "include": "redPackage.json"
+    }
+]

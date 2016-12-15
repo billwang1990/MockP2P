@@ -1,0 +1,49 @@
+[
+    {
+        "request": {
+            "uri": "/xyyh/getApiUrlCommon"
+        },
+        "response": {
+            "json": {
+                "resultStatus": 0,
+                "msg": "查询成功",
+                "id": null,
+                "tradeSerial": null,
+                "applySequence": null,
+                "optional": null,
+                "total": 1,
+                "rows": [
+                  {
+                    "apiName": "首页",
+                    "apiImgUrl": "",
+                    "apiUrl": "http://m.52tfd.com/appconfig/index.html?content=首页",
+                    "apiDes": "首页",
+                    "apiExTime": null
+                  },
+                  {
+                    "apiName": "首页1",
+                    "apiImgUrl": "",
+                    "apiUrl": "http://m.52tfd.com/appconfig/index.html?content=首页",
+                    "apiDes": "首页",
+                    "apiExTime": null
+                  },
+                  {
+                    "apiName": "首页2",
+                    "apiImgUrl": "",
+                    "apiUrl": "http://m.52tfd.com/appconfig/index.html?content=首页",
+                    "apiDes": "首页",
+                    "apiExTime": null
+                  },
+                  {
+                    "apiName": "首页3",
+                    "apiImgUrl": "",
+                    "apiUrl": "http://m.52tfd.com/appconfig/index.html?content=首页",
+                    "apiDes": "首页3",
+                    "apiExTime": null
+                  }
+                ],
+                "footer": null
+            }
+        }
+    }
+]
